@@ -6,4 +6,5 @@ Orange
 blue 
 green
 
-The end.
+The colors of the rainbow.
+the end.
