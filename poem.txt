@@ -13,3 +13,6 @@ sky
 grass
 the end.
 The rain dropped from the rainbow 
+the grass is green
+the sky is blue
+the sun is yellow
