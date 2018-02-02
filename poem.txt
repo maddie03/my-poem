@@ -8,5 +8,8 @@ green
 unicorn
 
 The colors of the rainbow.
+clouds 
+sky
+grass
 the end.
 The rain dropped from the rainbow 
